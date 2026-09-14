@@ -16,7 +16,7 @@ install.packages(c("shiny", "Lahman", "dplyr", "tidyr", "ggplot2", "DT"))
 shiny::runApp("app.R")
 ```
 
-## What it demonstrates for the Rangers apprenticeship
+## What this demonstrates
 
 - **R + Shiny**, end to end (reactive UI, `selectizeInput` server-side search
   over 20k+ players, `ggplot2` + `DT` output)
