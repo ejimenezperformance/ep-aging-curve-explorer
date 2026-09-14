@@ -38,4 +38,3 @@ shiny::runApp("app.R")
   how aging curves have shifted
 - Port the same pattern to a pitching metric (K%, BB%, velocity if a
   Statcast-linked dataset is available)
-<img width="1240" height="893" alt="Screenshot_14-9-2026_174542_127 0 0 1" src="https://github.com/user-attachments/assets/91cb06bf-677b-48b4-9dc8-93805d6b0ed0" />
