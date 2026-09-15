@@ -5,9 +5,7 @@ A population-level hitter aging curve, built with the classic **delta method**
 seasons), with an optional overlay of any individual player's own career
 trajectory against that baseline.
 
-Uses Sean Lahman's public-domain MLB database via the `Lahman` CRAN package —
-the same source behind the EP College Pipeline Intelligence work in Python,
-now in R.
+Uses Sean Lahman's MLB database, distributed via the Chadwick Baseball Bureau (CC BY-SA 3.0), via the `Lahman` CRAN package — the same source behind the EP College Pipeline Intelligence work in Python, now in R.
 
 ## Run it
 
